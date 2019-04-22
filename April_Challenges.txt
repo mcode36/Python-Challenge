@@ -1,0 +1,30 @@
+1. Print 9 x 9 Multiplication Table
+
+2. Find sum of all the prime numbers under 1000
+
+3. Print numbers from 1 to 100.
+   when number is multiple of 2, print "hey"
+   when number is multiple of 3, print "ho"
+   when number is multiple of 2 & 3, print "hey-ho"
+   
+4. Make a word count program to count number of words in a document
+   a. Print total number of lines
+   b. Print total number of words
+   c. Make summary of character counts, from a to z
+
+FCC
+5. (freecodecamp IAS) Smallest common multiple 
+
+6. (freecodecamp IAS) Sorted Union 
+
+7. (freecodecamp IAS) Missing letters
+
+8. (freecodecamp IAS projects) Palindrome Checker
+
+9. (freecodecamp IAS projects) Caesars Cipher
+
+Turtle Drawing
+10. Draw curve y = a x^2 - b x + c 
+   try different a,b,c value to see how that affect the curve
+   
+11. Make a bouncing ball trace with damping factor
