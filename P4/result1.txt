@@ -1,0 +1,28 @@
+Total number of lines: 21
+Total number of words: 302
+a : 137
+b :  16
+c :  38
+d :  47
+e : 181
+f :  33
+g :  28
+h :  74
+i :  78
+j :   2
+k :   9
+l :  53
+m :  34
+n :  82
+o :  99
+p :  25
+q :   0
+r : 116
+s :  92
+t : 120
+u :  35
+v :  18
+w :  33
+x :   1
+y :  34
+z :   1
